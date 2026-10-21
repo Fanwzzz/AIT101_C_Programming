@@ -1,0 +1,21 @@
+.build/
+.DS_Store
+
+# Course handouts are kept locally; redistribution permission is not established.
+slides/
+
+# Local editor and machine-specific build setup.
+.vscode/
+*.code-workspace
+tools/
+CMakeLists.txt
+CMakePresets.json
+
+# Executables and temporary build output from manual compilation.
+build/
+*.o
+*.obj
+*.exe
+*.out
+
+
