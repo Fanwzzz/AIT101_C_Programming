@@ -3,6 +3,7 @@
 
 # Course handouts are kept locally; redistribution permission is not established.
 slides/
+individual assignment/
 
 # Local editor and machine-specific build setup.
 .vscode/
